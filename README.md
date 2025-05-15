@@ -12,3 +12,5 @@ The repo is structured as:
 - `Paper` contains the PDF of the paper.
 - `Scripts` contains the MATLAB scripts used for simulation.
 - `Other` contains some figure results used in the paper.
+
+This project was developed in collaboration with [@l-r-x](https://github.com/l-r-x).
